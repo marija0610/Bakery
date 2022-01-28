@@ -1,0 +1,8 @@
+.vs
+TVP_P2/bin
+TVP_P2/obj
+TVP_P2/Properties
+TVP_P2/App.config
+*.xss
+*.xsc
+
